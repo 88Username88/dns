@@ -649,6 +649,11 @@ piyush:
    type: CNAME
    value: dino.piyush.ovh.
 
+playground3D: # U0AEANKAPMZ
+  ttl: 600 
+  type: CNAME
+  value: 88username88.github.io.
+
 print:
    ttl: 600
    type: CNAME
